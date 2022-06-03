@@ -4,12 +4,14 @@
 \alias{add}
 \title{Add two numbers}
 \usage{
-add(x, y)
+add(x, y, z)
 }
 \arguments{
 \item{x}{The first number to add.}
 
 \item{y}{The second number to add.}
+
+\item{z}{The third number to add}
 }
 \value{
 The sum of two numbers
@@ -18,6 +20,6 @@ The sum of two numbers
 Add two numbers
 }
 \examples{
-add(1, 2) # 3
-add(4, 6) # 10
+add(1, 2, 3) # 6
+add(4, 6, 1) # 11
 }
