@@ -12,6 +12,7 @@ What the package does (one paragraph).
 Useful links:
 \itemize{
   \item \url{https://github.com/ramnathv/testpkg3}
+  \item \url{https://ramnathv.github.io/testpkg3/}
   \item Report bugs at \url{https://github.com/ramnathv/testpkg3/issues}
 }
 
